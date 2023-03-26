@@ -1,3 +1,3 @@
 <h2> HR Analytics Dashboard </h2>
-<li>
+<br>
 ![hr analytics](HR_Analytics_dashboard/dashboard.png)
